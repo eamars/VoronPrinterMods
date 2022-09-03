@@ -1,5 +1,4 @@
-Rear button skirt and JST skirt buttons
-
+Rear button skirt and skirt buttons
 ===========
 
 ![front_view](front.PNG)
