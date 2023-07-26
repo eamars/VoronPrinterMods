@@ -10,11 +10,9 @@ The rear mounting piece is cross compatible with the [CrazyDragon](https://githu
 The Stealthburner front is adopted from [Stealthburner for Rapido UHF](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf)
 
 ## Print Parameters
-
 Print in standard Voron settings. 
 
 ## Previews
----
 ![back](back.png)
 ![bottom](bottom.PNG)
 ![cut_section](front.PNG)
