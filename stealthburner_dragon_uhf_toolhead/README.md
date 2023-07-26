@@ -14,6 +14,6 @@ Print in standard Voron settings.
 
 ## Previews
 ![back](back.png)
-![bottom](bottom.PNG)
-![cut_section](front.PNG)
+![bottom](bottom.png)
+![front](front.png)
 
