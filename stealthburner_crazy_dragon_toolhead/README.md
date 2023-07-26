@@ -10,12 +10,16 @@ The duct is designed to be able to mount the Phaetus/Triangle Lab dragon heatsin
  - Phaetus Dragon UHF mini (standard UHF version without the melt zone extender)
  - TriangleLab T Volcano (to be verified)
 
-Print Parameters
----
+# Tap compatibility
+**NOTE: IT IS STRONGLY NOT RECOMMENDED TO USE PRINTED TAP (IN ABS) WITH THIS MOD. YOUR TAP WILL MELT IN NO TIME.**
+
+But if you insist, I've modified with rear mounting piece not to interfere with 4x mounting screws from tap that is extruded about 1.5mm from the surface. 
+![tap_compatibility](tap_compatibility.png)
+
+## Print Parameters
 Print in standard Voron settings. 
 
-Previews
----
+## Previews
 ![back](back.png)
 ![bottom](bottom.PNG)
 ![cut_section](cut_section.PNG)
